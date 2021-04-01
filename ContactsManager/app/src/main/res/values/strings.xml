@@ -12,5 +12,5 @@
     <string name="company">Company</string>
     <string name="website">Website</string>
     <string name="IM">IM</string>
-    <string name="phone_error">Phone number received from intent is null!</string>
+    <string name="phone_error">Phone number received from intent is invalid!</string>
 </resources>
