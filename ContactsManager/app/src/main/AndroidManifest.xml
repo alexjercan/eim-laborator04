@@ -8,6 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ContactsManager" />
+        android:theme="@style/Theme.ContactsManager">
+        <activity android:name=".ContactsManagerActivity"></activity>
+    </application>
 
 </manifest>
